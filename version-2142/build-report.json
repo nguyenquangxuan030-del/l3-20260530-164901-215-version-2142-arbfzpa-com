@@ -1,0 +1,77 @@
+{
+  "parsed_movies": 2000,
+  "video_sources_extracted": 20,
+  "categories": [
+    {
+      "name": "日韩精选",
+      "slug": "asia-selection",
+      "desc": "聚焦日韩与亚洲影像气质，适合快速发现高关注片单。",
+      "count": 200
+    },
+    {
+      "name": "热门电影",
+      "slug": "hot-movies",
+      "desc": "电影向片单，覆盖动作、剧情、犯罪、爱情等多种类型。",
+      "count": 200
+    },
+    {
+      "name": "高分剧集",
+      "slug": "top-series",
+      "desc": "连续剧与剧集内容集合，适合长线追看。",
+      "count": 200
+    },
+    {
+      "name": "悬疑犯罪",
+      "slug": "mystery-crime",
+      "desc": "悬疑、惊悚、犯罪、探案相关影片集中展示。",
+      "count": 200
+    },
+    {
+      "name": "动作冒险",
+      "slug": "action-adventure",
+      "desc": "动作、冒险、战争、灾难与高燃题材片单。",
+      "count": 200
+    },
+    {
+      "name": "爱情剧情",
+      "slug": "romance-drama",
+      "desc": "爱情、家庭、现实、文艺与情感剧情精选。",
+      "count": 200
+    },
+    {
+      "name": "动画奇幻",
+      "slug": "animation-fantasy",
+      "desc": "动画、奇幻、科幻与想象力作品集合。",
+      "count": 200
+    },
+    {
+      "name": "喜剧治愈",
+      "slug": "comedy-healing",
+      "desc": "喜剧、温情、治愈、轻松向内容推荐。",
+      "count": 200
+    },
+    {
+      "name": "经典片单",
+      "slug": "classic-list",
+      "desc": "经典质感、年代回望与口碑向影片整理。",
+      "count": 200
+    },
+    {
+      "name": "新片速递",
+      "slug": "new-releases",
+      "desc": "按片库热度与年份混合推荐的更新片单。",
+      "count": 200
+    }
+  ],
+  "validation": {
+    "html_files": 2014,
+    "detail_pages": 2000,
+    "category_pages": 10,
+    "missing_baidu_count": 0,
+    "short_html_count": 0,
+    "forbidden_visible_count": 0,
+    "expected_movies": 2000,
+    "ok": true,
+    "first_missing_baidu": []
+  }
+}
